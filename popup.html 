@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Call Summarizer</title>
+</head>
+<body>
+  <h1>Call Summary</h1>
+  <p id="summary"></p>
+  <script src="popup.js"></script>
+</body>
+</html>
